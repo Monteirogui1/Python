@@ -1,0 +1,86 @@
+Condomínio Beatriz: 7673.14 
+Condomínio Rosa Maria: 8715.91 
+Condomínio Moisés Amélio: 19139.20 
+Cantão Suíço Brasileiro: 40136.50 
+Condomínio Solar del Rey: 10040.41 
+Condomínio Dom Pasquale: 24955.66 
+Condomínio José Ruiz Boleia: 29176.97 
+Condomínio Luciana: 8436.45 
+Condomínio Chácara Braune: 6043.20 
+Condomínio João XXIII: 8535.23 
+Condomínio Vila Rica: 7700.00 
+Condomínio Francisco Ruiz: 11302.50 
+Condomínio M M Mastrangelo: 9171.72 
+Condomínio Dona Rachel: 3988.04 
+Condomínio Quintern: 3349.28 
+Condomínio Ana Flávia: 4392.84 
+Condomínio Sítio Sans Souci: 2616.09 
+Condomínio Imperador Dom Pedro I: 12782.63 
+Condomínio Solar do Suspiro: 13818.02 
+Condomínio Vivendas da Colina: 11955.24 
+Condomínio Arysmar: 3481.78 
+Condomínio Guanabara: 6434.18 
+Condomínio Residencial Bairro Suíço: 5687.83 
+Condomínio Max: 7470.36 
+Condomínio do Conjunto Solares: 3993.08 
+Condomínio Sítio do Viaduto: 16461.17 
+Condomínio Paula: 4676.91 
+Condomínio Morada Colibris II: 11600.06 
+Condomínio Parque Verde: 11232.00 
+Edifício Residencial Sanjaya: 21667.92 
+Condomínio Porto Alegre: 13210.17 
+Condomínio Fazenda do Cônego: 4960.03 
+Condomínio Saint Moritz: 7625.60 
+Condomínio Professor Pero Ribeiro: 6262.00 
+Condominio Interlaken: 8485.75 
+Condomínio Emil Cleff: 2090.64 
+Condomínio Alberto da Rosa Pinheiro: 10178.91 
+Condomínio Pero Marques de Oliveira: 19943.40 
+Condomínio Serraville Esperança GL A: 11134.34 
+Condomínio João Correa: 16918.71 
+Condomínio Dom Aquino: 4471.44 
+Condomínio Residencial Green: 10001.97 
+Condomínio Oswald Cruz: 22483.29 
+Condomínio Saint Germant: 2114.00 
+Centro Comercia Adriano Affonso: 23776.13 
+Condomínio Santa Helena: 29553.32 
+Condomínio Dois Irmãos: 11577.52 
+Condomínio Ana Paula: 9465.40 
+Condomínio Vivendas de Valencia: 17182.61 
+Condomínio Monte Salviano: 7015.21 
+Condomínio Verde Valle GL 28- Solar dos Gerânios: 13768.48 
+Condomínio Vivendas de Madrid: 6840.46 
+Condomínio Verde Valle GL 30: 9458.63 
+Condomínio Toulouse: 9358.08 
+Condomínio Geraldo Perrut: 7755.11 
+Condomínio Van Gogh: 13590.77 
+Condomínio Residencial Central Park: 156809.37 
+Condomónio Santo Inácio: 2986.80 
+Condomínio Residencial Portal da Praia: 10187.49 
+Condomínio Vivendas de Bilbao: 11123.06 
+Condomínio Varandas Sans Soucci: 20004.85 
+Condomínio Miriam: 4662.96 
+Condomínio Adelino Araújo: 30801.20 
+Condomínio  José Alvarez Gomes e H A Gandara: 3944.22 
+Condomínio Centro Empresarial: 31636.59 
+Condomínio Monte Libano: 8227.58 
+Condomínio Moradas do Cônego: 6396.84 
+Condomínio Trade Center: 30603.02 
+Condomínio Augusto Spinelli: 5990.96 
+Condomínio Vivendas de La Coruna: 15091.50 
+Condomínio do Edifício Dom Rafael: 12791.38 
+Condomínio Vivendas de Pamplona: 14277.58 
+Condomínio Residencial Saint Tropez: 10366.91 
+Condomínio do Edifício Katania: 2432.39 
+Condomínio DR.  José Antônio Sertã: 33385.82 
+Condomínio Residencial Sans Village: 18866.07 
+Condomínio Vale do Ventos: 3598.41 
+Condomínio Residencial Vivendas do Cônego: 11530.80 
+Condomínio Mirante da Torre: 6876.89 
+Condomínio do Edifício Natalina: 3051.38 
+Condomínio dos Chalés: 5519.50 
+Condomínio Locarno: 11692.16 
+Condomínio Parque Cesar Guinle: 10601.22 
+Condomínio Noerci Residencial: 7879.56 
+
+ A Receita Total é de: 1,127,192.80
