@@ -27,8 +27,8 @@ for id in i:
   payload={}
   headers = {
       'Content-Type': 'application/json',
-      'app_token': '29b9ac1d-ad7a-4a67-aed0-f8502771d00c',
-      'access_token': '08d4b378-199c-4479-aecd-cc9f4173e496'
+      'app_token': '',
+      'access_token': ''
     }
 
   response = requests.request("GET", url, headers=headers, data=payload)
