@@ -48,9 +48,13 @@ async def jogar(ctx):
 
 @bot.command(name='Pedro', help='Xinga o pedro')
 async def xinga(ctx):
-    resposta = 'Da uma mamada !!'
+    resposta = 'Da uma  !!'
 
     await ctx.send(resposta)
 
 
-bot.run('ODIzOTY3NDU5NTkzMDI3NTg1.YFohfg.KyxP77qHVbq37dH5uIB9nClbNtk')
+bot.run('')
+
+# ODIzOTY3NDU5NTkzMDI3NTg1
+# YFohfg
+# KyxP77qHVbq37dH5uIB9nClbNtk
