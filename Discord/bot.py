@@ -55,6 +55,3 @@ async def xinga(ctx):
 
 bot.run('')
 
-# ODIzOTY3NDU5NTkzMDI3NTg1
-# YFohfg
-# KyxP77qHVbq37dH5uIB9nClbNtk
